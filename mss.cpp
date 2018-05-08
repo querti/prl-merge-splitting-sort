@@ -1,5 +1,4 @@
-//zmen poradie includov
-//TODO mpi send poslat cele naraz
+
 #include <iostream>
 #include <mpi.h>
 #include <vector>
